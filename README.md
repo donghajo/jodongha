@@ -5,7 +5,10 @@
 </div>
  
  ## Jo Dongha
-
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?uername=jodongha&layout=compact)](http://github.com/anuraghazra/github-readme-stats)  
+</div>
+  
 
 <!--
 **jodongha/jodongha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
