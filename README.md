@@ -4,11 +4,11 @@
  
 </div>
  
- ## Jo Dongha | 조 동하 | 趙 瞳夏     [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jodongrami@gmail.com)](mailto:jodongrami@gmail.com)
+ ## :blush: Jo Dongha | 조 동하 | 趙 瞳夏     [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jodongrami@gmail.com)](mailto:jodongrami@gmail.com)
  
- #### Main Stack
+ #### :computer: Main Stack
  
- ### Awards | 수상
+ ### :trophy: Awards | 수상
 <div>
   
   
