@@ -6,9 +6,9 @@
 <div> 
  
   ## Jo Dongha | 조 동하 | 趙 瞳夏     [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jodongrami@gmail.com)](mailto:jodongrami@gmail.com)
- 
+<!-- 
  ## :computer: Main Stack
- 
+ -->
  ## :trophy: Awards | 수상
 
   ### 2020
@@ -21,6 +21,8 @@
     + 우수상 | PVA 고분자 화합물의 수용성 필름 
 ---
    ### 2021
+  + #### 2021 제 3회 한국 스마트 관광콘텐츠 콘테스트 
+    + 대상 | 인천 스마트 시티투어버스 (증강현실과 메타버스를 활용한 스마트 시티투어버스)
   + #### 하계 국내인턴십 | H.A.S.
   + #### 동서 AI 아이디어 경진대회
     + 장려상 | 딥페이크 기술을 이용한 나만의 동화만들기
@@ -28,18 +30,17 @@
     + 우수상 
   + #### 2021 동서인 AI 해커톤 경진대회 
     + 최우수상 | 생성적 적대 신경망(GAN)을 활용한 부분 위변조 이미지 생성에 관한 연구 
+  + #### Reddot Design Awards
+    + Best of the Best | Smart Label Package
   + #### DSU LINC+ 메타버스기반 캡스톤디자인 경진대회 
     + 최우수상 | Smart Label Package
   + #### 쇼미더동서AI 
     + 장려상 | 사용자 위치기반 온ㆍ오프라인 가격비교 시스템
-  + #### Reddot Design Awards
-    + Best of the Best | Smart Label Package
   + #### 대한민국디자인전람회
     + 입선 Winner | Smart Label Package
   + #### DSU 부산권역 LINC+ 연합 캡스톤디자인 경진대회 
     + 최우수상 | Smart Label Package
-  + #### 2021 제 3회 한국 스마트 관광콘텐츠 콘테스트 
-    + 장려상 | 인천 스마트 시티투어버스 (증강현실과 메타버스를 활용한 스마트 시티투어버스)
+
  ---
 </div>
 
