@@ -12,7 +12,6 @@
    + DSU 부산권역 LINC+ 연합 캡스톤디자인 경진대회  | 최우수상
  
  역할 : 프로세스 구성, 기술 원리 정리
- 
  Reddot Design Awards Link : https://www.red-dot.org/ko/project/smart-label-package-54753
  
  + #### 딥페이크 기술을 이용한 나만의 동화만들기
