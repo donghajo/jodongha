@@ -7,7 +7,7 @@
  ## :trophy: Awards | 수상
   ### 2021
  + ### Smart Label Package
-   + 역할 : 프로세스 구성, 기술 원리 정리
+   + 역할 : 아이디어 도출, 프로세스 구성, 기술 원리 정리
    + Link - https://www.red-dot.org/ko/project/smart-label-package-54753
      + Reddot Design Awards | Best Of the Best
      + 대한민국디자인전람회 | 입선 Winner
@@ -16,8 +16,10 @@
  
  + #### 딥페이크 기술을 이용한 나만의 동화만들기
    + 동서 AI 아이디어 경진대회 | 장려상
+ 
  + #### 사용자 위치기반 온ㆍ오프라인 가격비교 시스템
-   + 쇼미더동서AI | 장려상
+   + 역할 : 아이디어, Google Map Api를 활용
+     + 쇼미더동서AI | 장려상
  + #### 생성적 적대 신경망(GAN)을 활용한 부분 위변조 이미지 생성에 관한 연구
    + 2021 동서인 AI 해커톤 경진대회 | 최우수상
    + 2021년도 학부생 연구프로그램 URP
